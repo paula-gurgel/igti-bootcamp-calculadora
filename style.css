@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+  font-weight: bold;
+  font-family: "Courier New", Courier, monospace;
+}
+h2 {
+  text-align: center;
+  font-weight: bold;
+  font-family: "Courier New", Courier, monospace;
+}
+.number {
+  font-family: "Courier New", Courier, monospace;
+  margin: 3px 5px;
+}
