@@ -101,6 +101,7 @@ function atributeValue() {
   calc.innerHTML = "";
   resultContents.forEach((element) => {
     var div = document.createElement("div");
+    div.classList.add("element");
 
     var operationName = document.createElement("span");
     operationName.textContent = element.name;
